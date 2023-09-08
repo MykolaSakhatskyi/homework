@@ -102,6 +102,8 @@ int main()
 	std::cout << "The square of this number is: " << pow(arbitrarilyEnteredNumber, 2) <<std::endl;
 	std::cout << "The cube of this number is: " << pow(arbitrarilyEnteredNumber, 3) <<std::endl;
 
+	//8)Дано витрати машиною пального на 100 км, ціну 1 л пального, а також шлях, який потрібно проїхати водію. 
+	// Обчислити та вивести на екран скільки потрібно витратити грошей водію, щоб проїхати вказаний шлях
 	std::cout << "---------------------------- TASK 8 ------------------------------" << std::endl;
 	double fuelConsumptionPer100Km{ 11.2 };
 	double priceOf1LiterOfFuel{ 42.5 };
