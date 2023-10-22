@@ -129,6 +129,18 @@
   <ItemGroup>
     <ClCompile Include="homework.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="funtionsForTaskFive.h" />
+    <ClInclude Include="funtionsForTaskFour.h" />
+    <ClInclude Include="funtionsForTaskNine.h" />
+    <ClInclude Include="funtionsForTaskOne.h" />
+    <ClInclude Include="funtionsForTaskSeven.h" />
+    <ClInclude Include="funtionsForTaskSix.h" />
+    <ClInclude Include="funtionsForTaskTen.h" />
+    <ClInclude Include="funtionsForTaskThree.h" />
+    <ClInclude Include="funtionsForTaskTwo.h" />
+    <ClInclude Include="funtionsForTaskEight.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
