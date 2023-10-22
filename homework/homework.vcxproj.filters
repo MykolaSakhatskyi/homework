@@ -19,4 +19,36 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="funtionsForTaskOne.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskTwo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskThree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskFour.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskFive.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskSix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskSeven.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskEight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskNine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funtionsForTaskTen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
